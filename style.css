@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(213, 173, 230);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+h1 {
+  font-weight: bold;
+  background-color: blueviolet;
+}
+
+p{
+  
+    font-family: "Roboto", serif;
+    font-weight: 100;
+    font-style: normal;
+  
+}
+
+
+.profiladatok {
+  text-align: center;
+}
+
+.profil-links {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.button {
+  background-color: rgb(160, 99, 216);
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 10px;
+}
